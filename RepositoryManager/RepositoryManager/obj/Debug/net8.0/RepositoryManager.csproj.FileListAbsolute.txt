@@ -1,0 +1,11 @@
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\bin\Debug\net8.0\RepositoryManager.deps.json
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\bin\Debug\net8.0\RepositoryManager.dll
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\bin\Debug\net8.0\RepositoryManager.pdb
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\obj\Debug\net8.0\RepositoryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\obj\Debug\net8.0\RepositoryManager.AssemblyInfoInputs.cache
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\obj\Debug\net8.0\RepositoryManager.AssemblyInfo.cs
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\obj\Debug\net8.0\RepositoryManager.csproj.CoreCompileInputs.cache
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\obj\Debug\net8.0\RepositoryManager.dll
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\obj\Debug\net8.0\refint\RepositoryManager.dll
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\obj\Debug\net8.0\RepositoryManager.pdb
+D:\project\FMLX_TEST\RepositoryManager\RepositoryManager\obj\Debug\net8.0\ref\RepositoryManager.dll

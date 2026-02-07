@@ -1,0 +1,14 @@
+D:\project\FMLX_TEST\StringSequence\bin\Debug\net8.0\StringSequence.exe
+D:\project\FMLX_TEST\StringSequence\bin\Debug\net8.0\StringSequence.deps.json
+D:\project\FMLX_TEST\StringSequence\bin\Debug\net8.0\StringSequence.runtimeconfig.json
+D:\project\FMLX_TEST\StringSequence\bin\Debug\net8.0\StringSequence.dll
+D:\project\FMLX_TEST\StringSequence\bin\Debug\net8.0\StringSequence.pdb
+D:\project\FMLX_TEST\StringSequence\obj\Debug\net8.0\StringSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\FMLX_TEST\StringSequence\obj\Debug\net8.0\StringSequence.AssemblyInfoInputs.cache
+D:\project\FMLX_TEST\StringSequence\obj\Debug\net8.0\StringSequence.AssemblyInfo.cs
+D:\project\FMLX_TEST\StringSequence\obj\Debug\net8.0\StringSequence.csproj.CoreCompileInputs.cache
+D:\project\FMLX_TEST\StringSequence\obj\Debug\net8.0\StringSequence.dll
+D:\project\FMLX_TEST\StringSequence\obj\Debug\net8.0\refint\StringSequence.dll
+D:\project\FMLX_TEST\StringSequence\obj\Debug\net8.0\StringSequence.pdb
+D:\project\FMLX_TEST\StringSequence\obj\Debug\net8.0\StringSequence.genruntimeconfig.cache
+D:\project\FMLX_TEST\StringSequence\obj\Debug\net8.0\ref\StringSequence.dll

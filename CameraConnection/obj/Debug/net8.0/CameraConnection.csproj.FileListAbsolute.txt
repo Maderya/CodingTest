@@ -1,0 +1,11 @@
+D:\project\FMLX_TEST\CameraConnection\bin\Debug\net8.0\CameraConnection.deps.json
+D:\project\FMLX_TEST\CameraConnection\bin\Debug\net8.0\CameraConnection.dll
+D:\project\FMLX_TEST\CameraConnection\bin\Debug\net8.0\CameraConnection.pdb
+D:\project\FMLX_TEST\CameraConnection\obj\Debug\net8.0\CameraConnection.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\FMLX_TEST\CameraConnection\obj\Debug\net8.0\CameraConnection.AssemblyInfoInputs.cache
+D:\project\FMLX_TEST\CameraConnection\obj\Debug\net8.0\CameraConnection.AssemblyInfo.cs
+D:\project\FMLX_TEST\CameraConnection\obj\Debug\net8.0\CameraConnection.csproj.CoreCompileInputs.cache
+D:\project\FMLX_TEST\CameraConnection\obj\Debug\net8.0\CameraConnection.dll
+D:\project\FMLX_TEST\CameraConnection\obj\Debug\net8.0\refint\CameraConnection.dll
+D:\project\FMLX_TEST\CameraConnection\obj\Debug\net8.0\CameraConnection.pdb
+D:\project\FMLX_TEST\CameraConnection\obj\Debug\net8.0\ref\CameraConnection.dll
