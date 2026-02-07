@@ -8,7 +8,7 @@ This is my coding test answer
 - RepositoryManager project is the answer for B. Object Oriented Test
 - CameraConnection project is the answer for C. Software Comprehension Test
 
-# Developed using :
+## Developed using 
 
 - C# 12
 - .NET 8.0
